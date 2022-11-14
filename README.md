@@ -1,9 +1,11 @@
 # poc-react-native-sdk-used-in-native-app
 
-Open project with AndroidStudio & hit run button.
+1. Open project with AndroidStudio & hit run button.
 
-When click on START GREEN PANDA button, React Native app activity will start.  
+2. When click on START GREEN PANDA button, React Native app activity will start.  
 
-App will use callbacks set for onSuccess and onError, exposed by GreenPanda module from lib.  
+3. App will use callbacks set for onSuccess and onError, exposed by GreenPanda module from lib.  
 
-To see effects, open Loggat & serach by tag: FromMain.
+4. To see effects, open Loggat & serach by tag: FromMain.
+
+Cheers! 🍺
