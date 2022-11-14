@@ -6,6 +6,6 @@
 
 3. App will use callbacks set for onSuccess and onError, exposed by GreenPanda module from lib.  
 
-4. To see effects, open Loggat & serach by tag: FromMain.
+4. To see effects, open Logcat & serach by tag: FromMain.
 
 Cheers! 🍺
