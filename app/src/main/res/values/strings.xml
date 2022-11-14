@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicAppThatUseGreenPanda</string>
+    <string name="button_text">Start Green Panda</string>
+</resources>
